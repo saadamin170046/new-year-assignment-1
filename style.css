@@ -30,3 +30,153 @@
     border-radius: 10px;
     border: none;
 }
+
+.failure-section {
+    display: flex;
+    align-items: center;
+    gap: 90px;
+    margin-top: 130px;
+}
+
+.failure-image {
+    margin-left: 210px;
+}
+
+.failure-text {
+    margin-right: 300px;
+}
+
+.tik-mark {
+    color: #16D887;
+}
+
+.failure-title {
+    font-size: 40px;
+}
+
+.failure-text-color {
+    color: #444343;
+}
+
+.my-work-section {
+    margin: 200px 330px;
+}
+
+.my-work {
+    display: flex;
+    column-gap: 80px;
+}
+
+.work-card {
+    padding: 20px;
+    background-color: #e0edf1;
+    border-radius: 20px;
+}
+
+.work-btn {
+    background-color: #297abc;
+    padding: 10px 25px;
+    border-radius: 10px;
+    border: none;
+    color: white;
+}
+
+.work-title {
+    text-align: center;
+    margin-bottom: 100px;
+    font-size: 40px;
+}
+
+.work-sub {}
+
+/* Plan */
+
+.plan-title {
+    text-align: center;
+    font-size: 40px;
+    margin-top: 130px;
+}
+
+.Plan-section {
+    display: flex;
+    gap: 85px;
+    margin-top: 50px;
+    margin-bottom: 130px;
+    justify-content: center;
+}
+
+.plan-sub {
+    color: #737272;
+}
+
+
+.plans-icon {}
+
+/* Positive Mindset */
+
+.positive-mindset {
+    background-image: #005FAC;
+    background-image: url(images/gradient1.png), url(images/watch.png);
+    background-repeat: no-repeat;
+    margin: 130px 330px;
+    color: white;
+    font-size: 40px;
+}
+
+.positive-text {
+    padding: 30px 0 0 65px;
+}
+
+.positive-button {
+    margin-bottom: 100px;
+    padding: 10px 20px;
+    border-radius: 5px;
+    border: none;
+    color: #005FAC;
+}
+
+/* Footer style */
+.footer-section {
+    background-color: black;
+    display: flex;
+    padding: 130px 0;
+    column-gap: 330px;
+}
+
+.footer-text {
+    color: white;
+}
+
+.footer-title {
+    font-size: 45px;
+}
+
+.footer-second-title {}
+
+.footer-email {
+    background-color: black;
+    border-color: #FFFFFF;
+    padding: 10px 40px;
+    border-radius: 10px;
+    margin-bottom: 16px;
+}
+
+.footer-btn {
+    background-color: #005FAC;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 10px;
+}
+
+.future {
+    margin-left: 230px;
+    margin-right: 200px;
+}
+
+.icon-twitter {
+    margin: 0 16px;
+}
+
+.subscribe {
+    margin-right: 230px;
+}
