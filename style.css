@@ -1,0 +1,32 @@
+.banner-image {
+    background-image: url(images/banner/banner3.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+
+.utu {
+    color: aquamarine;
+}
+
+.banner-text {
+    text-align: right;
+    padding: 230px 230px 350px 850px;
+    color: white;
+}
+
+.banner-title {
+    font-size: 65px;
+}
+
+.banner-description {
+    font-size: 16px;
+}
+
+.button-primary {
+    font-size: 20px;
+    color: #005FAC;
+    padding: 20px 25px;
+    border-radius: 10px;
+    border: none;
+}
